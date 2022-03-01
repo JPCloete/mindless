@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/mindless_entities.h
+mindless_renderer.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/mindless_renderer.h
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/mindless_renderer.h
+windows.h
+-
+gl/GL.h
+-
+opengl/khrplatform.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/opengl/khrplatform.h
+opengl/glext.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/opengl/glext.h
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/opengl/glext.h
+windows.h
+-
+khrplatform.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/opengl/khrplatform.h
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/opengl/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/source/mindless_entities.cpp
+../headers/mindless_entities.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/mindless_entities.h
+../headers/mindless_renderer.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/headers/mindless_renderer.h
+

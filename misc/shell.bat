@@ -1,4 +1,4 @@
 @echo off
-PATH %PATH%;C:\Users\Raxion\Desktop\project_mindless\misc
-call "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvarsall.bat" x64 10.0.17763.0
-cd Desktop\mindless\code
+PATH %PATH%;C:\Applications\Programming\Contemporary Projects\mindless_open_gl\misc
+call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvarsall.bat" x64 10.0.22000.0
+cd C:\Applications\Programming\Contemporary Projects\mindless_open_gl\code

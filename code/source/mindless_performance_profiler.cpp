@@ -1,0 +1,1 @@
+//TODO Add function to analyze other functions via function pointer.

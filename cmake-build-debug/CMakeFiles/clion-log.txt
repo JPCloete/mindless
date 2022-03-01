@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" C:\Users\Raxion\Desktop\mindless_open_gl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Raxion/Desktop/mindless_open_gl/cmake-build-debug

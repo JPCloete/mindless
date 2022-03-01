@@ -1,0 +1,31 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Raxion/Desktop/mindless_open_gl/code/source/mindless_entities.cpp" "C:/Users/Raxion/Desktop/mindless_open_gl/cmake-build-debug/CMakeFiles/mindless_open_gl.dir/code/source/mindless_entities.cpp.obj"
+  "C:/Users/Raxion/Desktop/mindless_open_gl/code/source/mindless_file_io.cpp" "C:/Users/Raxion/Desktop/mindless_open_gl/cmake-build-debug/CMakeFiles/mindless_open_gl.dir/code/source/mindless_file_io.cpp.obj"
+  "C:/Users/Raxion/Desktop/mindless_open_gl/code/source/mindless_renderer.cpp" "C:/Users/Raxion/Desktop/mindless_open_gl/cmake-build-debug/CMakeFiles/mindless_open_gl.dir/code/source/mindless_renderer.cpp.obj"
+  "C:/Users/Raxion/Desktop/mindless_open_gl/code/source/win32_mindless.cpp" "C:/Users/Raxion/Desktop/mindless_open_gl/cmake-build-debug/CMakeFiles/mindless_open_gl.dir/code/source/win32_mindless.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "MSVC")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

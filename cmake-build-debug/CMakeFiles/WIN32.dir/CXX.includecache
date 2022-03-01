@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/glext.h
+windows.h
+-
+khrplatform.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/khrplatform.h
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/mindless_entities.h
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/wglext.h
+windows.h
+-
+
+C:/Users/Raxion/Desktop/mindless_open_gl/code/win32_mindless.cpp
+windows.h
+-
+windowsx.h
+-
+profileapi.h
+-
+gl/GL.h
+-
+khrplatform.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/khrplatform.h
+wglext.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/wglext.h
+glext.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/glext.h
+mindless_entities.h
+C:/Users/Raxion/Desktop/mindless_open_gl/code/mindless_entities.h
+

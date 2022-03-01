@@ -1,0 +1,11 @@
+# ninja log v5
+1	435	6650717000794864	CMakeFiles/mindless_open_gl.dir/code/source/mindless_entities.cpp.obj	7bcc48be1a7d8466
+10	1135	6650717007753796	CMakeFiles/mindless_open_gl.dir/code/source/mindless_file_io.cpp.obj	14153a9fe0f53279
+1	1256	6658462300739819	CMakeFiles/mindless_open_gl.dir/code/source/win32_mindless.cpp.obj	3035b8b67b1522f1
+1335	1686	6654272184892403	mindless_open_gl.exe	41dff6f2f6fa9b34
+7	1227	6658462300420012	CMakeFiles/mindless_open_gl.dir/code/source/mindless_renderer.cpp.obj	2d0cfa15b292bb52
+1	88	6650719417034729	CMakeFiles/mindless_open_gl.dir/code/source/mindless_trig.cpp.obj	b277f6b2113792e3
+0	924	6658462604304279	CMakeFiles/mindless_open_gl.dir/code/source/mindless_memory.cpp.obj	1a23d3e881b39ff
+925	1135	6658462605903301	mindless_open_gl.exe	261c600d8d8d6069
+1	773	6658464179526621	CMakeFiles/mindless_open_gl.dir/code/source/mindless_memory.cpp.obj	1a23d3e881b39ff
+774	946	6658464180945750	mindless_open_gl.exe	261c600d8d8d6069
